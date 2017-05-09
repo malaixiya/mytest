@@ -7,3 +7,4 @@ why?
 Because you are son of bitch!
 
 为什么把.git 、密钥、私钥、证书都同步上来了？
+李光明，你在干嘛？
